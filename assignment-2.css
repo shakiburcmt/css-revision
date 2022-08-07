@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    justify-content: center;
+    width: 1321;
+    height: 646px;
+
+}
+
+.header {
+    background-color: black;
+    display: flex;
+    border-radius: 30px;
+    margin: 50px 130px 40px;
+
+}
+
+.top-title {
+    width: 531px;
+    height: 424px;
+    margin-top: 161px;
+    margin-left: 246px;
+    color: yellow;
+}
+
+.top-banner {
+    width: 581px;
+    height: 613px;
+    margin-top: 100px;
+
+}
